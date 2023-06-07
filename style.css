@@ -1,0 +1,32 @@
+.card {
+  height: 70px;
+  width: 100px;
+ border-radius: 10px;
+  font-size: 10px;
+  background-color: rgb(161, 223, 223);
+  font-family:'Montserrat';
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2),
+   0 4px 6px rgba(0,0,0,0.2);
+}
+
+
+/* Text */
+.me{
+    font-size:0.8em;
+    color: rgb(87, 87, 214);
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+.title{
+    font-size: 1em;
+    padding-left: 7px;
+    margin-bottom: 4px;
+    font-weight: 100;
+
+}
+.time{
+    font-size: 0.7em;
+    padding-left: 7px;
+    color: rgb(148, 148, 148);
+}
